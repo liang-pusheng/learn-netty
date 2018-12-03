@@ -1,0 +1,7 @@
+message student {
+    required string name;
+    required int32 age;
+    required double height;
+    required double weight;
+    required string class_name;
+}
